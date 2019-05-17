@@ -1,7 +1,9 @@
-# adminfacesarchetype
-adminfacesarchetype, genera proyecto web basado en adminfaces
+# jmoordbadminfaces
+jmoordbadminfaces, genera proyecto web basado en adminfaces
 Este usa Adminfaces
 https://adminfaces.github.io/site/
+
+con Las dependencias de jmooordb
 
 Pasos para usar:
 
