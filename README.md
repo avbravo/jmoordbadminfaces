@@ -13,9 +13,13 @@ Pasos para usar:
 
 * Configurar el path de Maven
 sudo gedit /etc/profile
+
 export M2_HOME=/home/avbravo/netbeans11/java/maven/
+
 export M2=$M2_HOME/bin
+
 export PATH=$M2:$PATH 
+
 
 
 * Clonar el proyecto
@@ -63,7 +67,7 @@ Pasos:
 Ejecutar
 
 * Recuerde observar la version del archetyp
- mvn archetype:generate -Dfilter=com.avbravo:adminfacesarchetype-archetype -DarchetypeVersion=0.1
+ mvn archetype:generate -Dfilter=com.avbravo:jmoordbadminfaces-archetype -DarchetypeVersion=0.1
 
 Responder a las preguntas
 
